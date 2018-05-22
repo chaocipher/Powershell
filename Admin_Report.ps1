@@ -15,6 +15,8 @@
 #
 #################################################################################### 
 
+Import-Module ActiveDirectory
+
 $varFromAddress = ""
 $varToAddress = ""
 $varSMTPServer = ""
